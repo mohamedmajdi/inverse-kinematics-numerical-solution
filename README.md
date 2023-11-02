@@ -10,6 +10,9 @@ solving the inverse kinematics problem numerically is done by iteratively guessi
 where θ_i is the i-th joint angle, α is the learning rate or step size, and ∂C/∂θ_i is the partial derivative of the cost function with respect to the i-th joint angle.
 
 # Gradient descent algorithm Pseudocode
-
-
+![img](gradient_descent_pseudocode.png)
 # Pybullet simulation demos
+![img](initial_setup.png)
+![img](test1.png)
+![img](test2.png)
+![img](test3.png)
