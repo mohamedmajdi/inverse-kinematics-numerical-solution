@@ -1,5 +1,5 @@
 # Inverse Kinematics Numerical Solution
-This project involves a solution to the robot arm inverse kinematics using gradient descent optimizaation technique. The algorithm is implemented in python, and the results are simulated using a Pybullet simulation.
+This project involves a solution to the robot arm inverse kinematics using gradient descent optimization technique. The algorithm is implemented in python, and the results are simulated using a Pybullet simulation.
 
 # Inverse kinematics overview
 Inverse kinematics is a way to transform from the world space system to the robot space system. The input to the inverse kinematics algorithm is the desired end effector cartesian position, and the output is the robot joint variables that make the robot end effector reach that desired position.
