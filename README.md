@@ -1,3 +1,11 @@
+# Table of contents
+
+- [Inverse Kinematics Numerical Solution](#inverse-kinematics-numerical-solution)
+- [Inverse kinematics overview](#inverse-kinematics-overview)
+- [Inverse kinematics as an optimization problem](#inverse-kinematics-as-an-optimization-problem)
+- [Gradient descent algorithm Pseudocode](#gradient-descent-algorithm-pseudocode)
+- [Pybullet simulation demos](#pybullet-simulation-demos)
+
 # Inverse Kinematics Numerical Solution
 This project involves a solution to the robot arm inverse kinematics using gradient descent optimization technique. The algorithm is implemented in python, and the results are simulated using a Pybullet simulation.
 
@@ -12,6 +20,11 @@ where θ_i is the i-th joint angle, α is the learning rate or step size, and �
 # Gradient descent algorithm Pseudocode
 ![img](gradient_descent_pseudocode.PNG)
 # Pybullet simulation demos
+
+
+https://github.com/mohamedmajdi/inverse-kinematics-numerical-solution/assets/69417860/9f00eb21-1e8b-4588-a5f5-610ddabbb7a3
+
+
 ![img](initial_setup.png)
 ![img](test1.png)
 ![img](test2.png)
